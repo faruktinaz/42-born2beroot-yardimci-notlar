@@ -189,8 +189,6 @@ Aşağıda görülen örnekte `joe`
  dahil bütün kullanıcıların yerine, üçüncü `ALL`
  ile ise bütün komutları koşturma hakkı tanınmıştır.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/16a8e882-83f6-4d97-9876-35901cd476e2/Untitled.png)
-
 ## **MONİTORİNG dosyası içeriği**
 
 ```
