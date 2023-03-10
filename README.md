@@ -113,11 +113,13 @@ lsblk sanal maine bölümleri ile ilgili ayrıntılı bilgiler verir
 
 SDA ilk diski temsil edr sonrakli blok cihaz bölümleri sda’nin yanında ondalık sayı alarak gösterilir
 
-sr0: çıkarılabilir cihazi temsil eder cd-rom listelenen cihazlar içinde çıkarılabilir oluop olmayanlari gösteren bölüm “RO” dur (RO: REMOVABLE)
+RO: READ-ONLY
 
-RO= 0 İSE ÇIKARILAMAZ
+sr0: çıkarılabilir cihazi temsil eder cd-rom listelenen cihazlar içinde çıkarılabilir olup olmayanlari gösteren bölüm “RM” dur (RM: REMOVABLE)
 
-RO = 1 ÇIKARILIR 
+RM= 0 İSE ÇIKARILAMAZ
+
+RM = 1 ÇIKARILIR 
 
 sda birincil cihazdır 
 
